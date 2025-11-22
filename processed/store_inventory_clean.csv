@@ -1,0 +1,36 @@
+id,product,category,price,quantity,source,total_sales
+1,Espresso,Beverages,Bean Suppliers Inc,0.85,inventory,0
+2,Latte,Beverages,Bean Suppliers Inc,1.20,inventory,0
+3,Croissant,Food,Bakery Delights,1.50,inventory,0
+4,Blueberry Muffin,Food,Bakery Delights,1.25,inventory,0
+5,Cold Brew,Beverages,Bean Suppliers Inc,1.00,inventory,0
+6,Turkey Sandwich,Food,Fresh Foods Co,3.50,inventory,0
+7,Green Tea,Beverages,Tea Importers Ltd,0.75,inventory,0
+8,Chocolate Chip Cookie,Food,Bakery Delights,0.80,inventory,0
+9,Caramel Macchiato,Beverages,Bean Suppliers Inc,1.40,inventory,0
+10,Cappuccino,Beverages,Bean Suppliers Inc,1.10,inventory,0
+11,Double Espresso,Beverages,Bean Suppliers Inc,1.00,inventory,0
+12,Chocolate Croissant,Food,Bakery Delights,1.80,inventory,0
+13,Iced Latte,Beverages,Bean Suppliers Inc,1.25,inventory,0
+14,Bagel with Cream Cheese,Food,Bakery Delights,2.00,inventory,0
+15,Matcha Latte,Beverages,Tea Importers Ltd,1.60,inventory,0
+16,Ham and Cheese Panini,Food,Fresh Foods Co,4.00,inventory,0
+17,Oatmeal Cookie,Food,Bakery Delights,0.90,inventory,0
+18,Americano,Beverages,Bean Suppliers Inc,0.95,inventory,0
+19,Vanilla Scone,Food,Bakery Delights,1.40,inventory,0
+20,Mocha Frappe,Beverages,Bean Suppliers Inc,1.80,inventory,0
+21,Chicken Caesar Wrap,Food,Fresh Foods Co,3.75,inventory,0
+22,Chai Tea Latte,Beverages,Tea Importers Ltd,1.30,inventory,0
+23,Banana Bread,Food,Bakery Delights,1.60,inventory,0
+24,Iced Tea,Beverages,Tea Importers Ltd,0.65,inventory,0
+25,Breakfast Burrito,Food,Fresh Foods Co,3.25,inventory,0
+26,Flat White,Beverages,Bean Suppliers Inc,1.15,inventory,0
+27,Cinnamon Roll,Food,Bakery Delights,1.90,inventory,0
+28,Hot Chocolate,Beverages,Sweet Treats Co,1.10,inventory,0
+29,Veggie Panini,Food,Fresh Foods Co,3.85,inventory,0
+30,Caramel Frappe,Beverages,Bean Suppliers Inc,1.75,inventory,0
+31,Apple Danish,Food,Bakery Delights,1.70,inventory,0
+32,Turkish Coffee,Beverages,Bean Suppliers Inc,1.05,inventory,0
+33,Caprese Sandwich,Food,Fresh Foods Co,4.25,inventory,0
+34,Iced Americano,Beverages,Bean Suppliers Inc,1.00,inventory,0
+35,Chocolate Muffin,Food,Bakery Delights,1.45,inventory,0

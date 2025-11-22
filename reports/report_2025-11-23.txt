@@ -1,0 +1,47 @@
+---- ETL Summary Sun Nov 23 01:26:52 EET 2025 ----
+Chocolate Muffin 0
+Matcha Latte 0
+Cappuccino 0
+Latte 0
+Flat White 0
+Chicken Caesar Wrap 0
+Vanilla Scone 0
+Cold Brew 0
+Blueberry Muffin 0
+Iced Latte 0
+Chocolate Chip Cookie 0
+Cinnamon Roll 0
+Banana Bread 0
+Americano 0
+Caramel Macchiato 0
+Turkish Coffee 0
+Double Espresso 0
+Green Tea 0
+Ham and Cheese Panini 0
+Bagel with Cream Cheese 0
+Espresso 0
+Caramel Frappe 0
+Hot Chocolate 0
+Veggie Panini 0
+Iced Tea 0
+Chocolate Croissant 0
+Chai Tea Latte 0
+Oatmeal Cookie 0
+Turkey Sandwich 0
+Caprese Sandwich 0
+Apple Danish 0
+Breakfast Burrito 0
+Croissant 0
+product 0
+Iced Americano 0
+Mocha Frappe 0
+id 0
+9 0
+8 0
+7 0
+6 0
+5 0
+4 0
+35 0
+34 0
+33 0
