@@ -18,7 +18,7 @@ REPORT_DIR="$BASE_DIR/reports"
 LOG_FILE="$LOG_DIR/etl_$(date +%F).log"
 ERROR_FILE="$LOG_DIR/error_$(date +%F).log"
 
-ALERT_EMAIL="fatma140mohamed@gmail.com"
+ALERT_EMAIL="info.belaldawoud@gmail.com"
 KEEP_LOG_DAYS=7
 
 mkdir -p "$RAW_DIR" "$PROCESSED_DIR" "$LOG_DIR" "$REPORT_DIR"
