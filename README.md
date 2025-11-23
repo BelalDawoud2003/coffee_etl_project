@@ -18,8 +18,7 @@ It then **transforms** the data (standardizes columns, calculates totals, filter
 - Logging & reporting – daily summaries
 
 ## 📂 Project Structure
-
-
+text```
 coffee_etl_project/
 ├── config/       # Configuration files
 │   └── config.env
@@ -33,7 +32,7 @@ coffee_etl_project/
 ├── logs/         # Pipeline logs
 ├── processed/    # Transformed & merged CSVs
 └── reports/      # Summary reports
-
+```
 
 ## ⚙️ ETL Pipeline Steps
 
@@ -57,4 +56,5 @@ coffee_etl_project/
 ```bash
 cd scripts
 ./coffee_etl.sh
+
 
