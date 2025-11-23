@@ -18,10 +18,10 @@ It then **transforms** the data (standardizes columns, calculates totals, filter
 - Logging & reporting – daily summaries
 
 ## 📂 Project Structure
-text```
+text
 coffee_etl_project/
-├── config/       # Configuration files
-│   └── config.env
+├── config/       # Configuration files                                                                                                                                                    
+│   └── config.env                                                                                                                                                                         
 ├── data/         # Raw data files
 │   ├── online_orders.json
 │   └── instore_sales.csv
@@ -56,5 +56,6 @@ coffee_etl_project/
 ```bash
 cd scripts
 ./coffee_etl.sh
+
 
 
