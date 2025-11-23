@@ -18,21 +18,19 @@ It then **transforms** the data (standardizes columns, calculates totals, filter
 - Logging & reporting – daily summaries
 
 ## 📂 Project Structure
-text
 coffee_etl_project/
 ├── config/       # Configuration files                                                                                                                                                    
 │   └── config.env                                                                                                                                                                         
-├── data/         # Raw data files
-│   ├── online_orders.json
-│   └── instore_sales.csv
-├── sql/          # SQL scripts
-│   └── init_coffee_db.sql
-├── scripts/      # ETL Bash scripts
-│   └── coffee_etl.sh
-├── logs/         # Pipeline logs
-├── processed/    # Transformed & merged CSVs
-└── reports/      # Summary reports
-```
+├── data/         # Raw data files                                                                                                                                                         
+│   ├── online_orders.json                                                                                                                                                                 
+│   └── instore_sales.csv                                                                                                                                                       
+├── sql/          # SQL scripts                                                                                                                                                      
+│   └── init_coffee_db.sql                                                                                                                                                                
+├── scripts/      # ETL Bash scripts                                                                                                                                                      
+│   └── coffee_etl.sh                                                                                                                                                                    
+├── logs/         # Pipeline logs                                                                                                                                                          
+├── processed/    # Transformed & merged CSVs                                                                                                                                              
+└── reports/      # Summary reports                                                                                                                                                                                                        
 
 ## ⚙️ ETL Pipeline Steps
 
@@ -56,6 +54,7 @@ coffee_etl_project/
 ```bash
 cd scripts
 ./coffee_etl.sh
+
 
 
 
